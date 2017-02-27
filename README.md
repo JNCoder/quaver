@@ -1,4 +1,4 @@
-# quaver
+# 八分音符
 > Preview [quaver-online-preview](https://8.diamondfsd.com)
 > a hot game quaver html5 version
 
